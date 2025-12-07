@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hu-digital.github.io/Portfolios/sitemap.xml
