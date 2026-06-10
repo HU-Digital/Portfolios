@@ -141,9 +141,9 @@ header p {
 }
 
 #about h2 {
-  font-weight: 700;
+  font-weight: 800;
   margin-bottom: 16px;
-  font-size: 1.9rem;
+  font-size: 2.3rem;
   line-height: 1.3;
 }
 
@@ -154,7 +154,7 @@ header p {
 }
 
 #about strong {
-  color: #FFC107;
+  color: #E68208;
 }
 
 /* Stats Box */
