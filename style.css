@@ -122,31 +122,6 @@ header p {
   }
 }
 
-
-
-
-/* About Section */
-/* #about {
-  background: linear-gradient(90deg, #001f3f 0%, #003366 100%);
-  color: white;
-  padding: 50px 30px;
-  border-radius: 15px;
-  box-shadow: 0 4px 20px rgba(0,0,0,0.05);
-  margin-bottom: 50px;
-}
-#about img {
-  border-radius: 15px;
-  max-width: 100%;
-  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
-}
-#about h2 {
-  font-weight: 700;
-  margin-bottom: 20px;
-}
-#about p {
-  line-height: 1.6;
-  font-size: 1rem;
-} */
 /* About Section */
 #about {
   background: linear-gradient(90deg, #001f3f 0%, #003366 100%);
@@ -197,12 +172,13 @@ header p {
 .stat-num {
   font-size: 1.7rem;
   font-weight: 700;
-  color: #FFC107;
+  
 }
 
 .stat-lbl {
   font-size: 11px;
   opacity: 0.8;
+ color: #E68208;
   margin-top: 2px;
 }
 
