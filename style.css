@@ -153,10 +153,6 @@ header p {
   opacity: 0.9;
 }
 
-#about strong {
-  color: #E68208;
-}
-
 /* Stats Box */
 .stat-box {
   background: rgba(255, 255, 255, 0.1);
@@ -178,19 +174,7 @@ header p {
 .stat-lbl {
   font-size: 11px;
   opacity: 0.8;
- color: #E68208;
   margin-top: 2px;
-}
-
-/* Service Badges */
-.service-badge {
-  background: rgba(255, 193, 7, 0.15);
-  color: #FFC107;
-  border: 1px solid rgba(255, 193, 7, 0.4);
-  border-radius: 50px;
-  padding: 6px 14px;
-  font-size: 12px;
-  font-weight: 500;
 }
 
 /* Mobile View */
