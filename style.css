@@ -297,6 +297,124 @@ background-color: #002E5C;
       /* Calculate scroll distance based on image height */
       transform: translateY(calc(350px - 100%));
     }
+/*Seo Tab Section */
+/* Seo Tab Css */
+.seo-case-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 28px;
+}
+.seo-case {
+  background: #ffffff;
+  border-radius: 14px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.seo-case:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.16);
+}
+.seo-case-images {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 2px;
+  background: #001f3f;
+}
+.seo-case-images img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  display: block;
+  cursor: pointer;
+  transition: opacity 0.2s ease;
+}
+.seo-case-images img:hover {
+  opacity: 0.85;
+}
+.seo-case-body {
+  padding: 22px 24px 26px;
+}
+.seo-case-body h5 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: #1e293b;
+  margin-bottom: 8px;
+}
+.seo-case-body p {
+  color: #475569;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.55;
+  margin-bottom: 16px;
+}
+.seo-stats {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+.seo-stat {
+  background: rgba(255, 140, 0, 0.1);
+  color: #FF8C00;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  font-size: 0.78rem;
+  padding: 6px 12px;
+  border-radius: 30px;
+  border: 1px solid rgba(255, 140, 0, 0.3);
+}
+@media (max-width: 575.98px) {
+  .seo-case-images img {
+    height: 130px;
+  }
+}
+
+/* SEO Lightbox Modal */
+.seo-lightbox-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.9);
+  z-index: 9999;
+  align-items: center;
+  justify-content: center;
+  padding: 30px;
+}
+.seo-lightbox-overlay.active {
+  display: flex;
+}
+.seo-lightbox-img {
+  max-width: 95%;
+  max-height: 95%;
+  border-radius: 8px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+}
+.seo-lightbox-close {
+  position: absolute;
+  top: 20px;
+  right: 30px;
+  color: #ffffff;
+  font-size: 2.5rem;
+  font-weight: 700;
+  cursor: pointer;
+  line-height: 1;
+}
+.seo-lightbox-close:hover {
+  color: #FF8C00;
+}
+@media (max-width: 575.98px) {
+  .seo-lightbox-close {
+    top: 12px;
+    right: 18px;
+    font-size: 2rem;
+  }
+}
 
 
 /* Achievements Section */
