@@ -6,7 +6,7 @@ HU Digital Marketing Agency is a premier digital solutions provider offering end
 ## 🌐 Quick Links
 
 - 🔗 **Live Website**: [https://hu-digital.github.io/Portfolios/](https://hu-digital.github.io/Portfolios/)  
-- 💬 WhatsApp: [Chat with Us](https://wa.me/03180783815)   
+- 💬 WhatsApp: [Chat with Us](https://wa.me/+41772924899)   
 
 ---
 
