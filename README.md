@@ -68,5 +68,5 @@ Empowering businesses with **smart, measurable, and scalable digital solutions**
 ## ✨ Connect With Us
 
 - 🌐 Website: [https://hu-digital.github.io/Portfolios/](https://hu-digital.github.io/Portfolios/)  
-- 📧 Email: hudigitalmarketingagency@gmail.com  
-- 💬 WhatsApp: [Chat with Us](https://wa.me/03180783815)  
+- 📧 Email: webanddigitalmarketingagency@gmail.com  
+- 💬 WhatsApp: [Chat with Us](https://wa.me/+41772924899)  
