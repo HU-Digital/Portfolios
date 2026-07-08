@@ -1,12 +1,13 @@
 # 🚀 🌟 About HU Digital Marketing Agency – Boost your online presence with professional digital services
-HU Digital Marketing Agency is a premier digital solutions provider offering end-to-end services to businesses worldwide. We specialize in transforming online presence through innovative web development, strategic digital marketing, and result-driven SEO solutions. With teams strategically located in Dubai, UK, and Germany, we deliver localized digital expertise with global standards.
+HU Digital offers digital services to clients worldwide and boasts four years of successful industry experience. Our team provides web development, web design, SEO, digital marketing, and ad management with a clear focus on performance. We have already served over 400 international clients who have achieved measurable growth through our services. You will receive a website that optimally supports your business goals, increased search engine visibility, and advertising campaigns that boost your revenue. Our team works meticulously and ensures that every project is geared towards concrete business results.
 
 ---
+<img align="right" alt="imgage" width="400" src="https://github.com/HU-Digital/HU-Digital/blob/main/HU%20Digital.png?raw=true">
 
 ## 🌐 Quick Links
 
 - 🔗 **Live Website**: [https://hu-digital.github.io/Portfolios/](https://hu-digital.github.io/Portfolios/)  
-- 💬 WhatsApp: [Chat with Us](https://wa.me/+41772924899)   
+- 💬 WhatsApp: [Chat with Us](https://wa.me/+923046186943)   
 
 ---
 
@@ -69,4 +70,4 @@ Empowering businesses with **smart, measurable, and scalable digital solutions**
 
 - 🌐 Website: [https://hu-digital.github.io/Portfolios/](https://hu-digital.github.io/Portfolios/)  
 - 📧 Email: webanddigitalmarketingagency@gmail.com  
-- 💬 WhatsApp: [Chat with Us](https://wa.me/+41772924899)  
+- 💬 WhatsApp: [Chat with Us](https://wa.me/+923046186943)  
